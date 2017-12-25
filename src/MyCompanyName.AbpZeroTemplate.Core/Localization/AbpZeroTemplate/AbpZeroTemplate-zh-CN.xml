@@ -339,6 +339,7 @@
     <text name="NotificationTypes" value="通知类型" />
     <text name="ReceiveNotifications_DisableInfo" value="您完全禁用接收通知,您可以启用它并选择您想收到通知类型。" />
     <text name="Notifications" value="通知" />
+    <text name="NotificationsHeaderInfo" value="通知管理和设置" />
     <text name="ThereIsNoNotification" value="没有通知。" />
     <text name="Unread" value="未读的" />
     <text name="YouCanNotDeleteOwnAccount" value="您不能删除自己的用户帐户!" />
