@@ -196,6 +196,8 @@
     <text name="Browser" value="浏览器" />
     <text name="Xms" value="{0} ms" />
     <text name="Close" value="关闭" />
+    <text name="TurnOn" value="开" />
+    <text name="TurnOff" value="关" />
     <text name="Refresh" value="刷新" />
     <text name="ErrorState" value="错误状态" />
     <text name="All" value="全部" />
@@ -341,7 +343,8 @@
     <text name="Notifications" value="通知" />
     <text name="NotificationsHeaderInfo" value="通知管理和设置" />
     <text name="ThereIsNoNotification" value="没有通知。" />
-    <text name="Unread" value="未读的" />
+    <text name="Read" value="已读" />
+    <text name="Unread" value="未读" />
     <text name="YouCanNotDeleteOwnAccount" value="您不能删除自己的用户帐户!" />
     <text name="On" value="启用" />
     <text name="Off" value="禁用" />

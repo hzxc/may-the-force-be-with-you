@@ -197,6 +197,8 @@
     <text name="Browser" value="Browser" />
     <text name="Xms" value="{0} ms" />
     <text name="Close" value="Close" />
+    <text name="TurnOn" value="turn on" />
+    <text name="TurnOff" value="turn off" />
     <text name="Refresh" value="Refresh" />
     <text name="ErrorState" value="Error state" />
     <text name="All" value="All" />
@@ -339,7 +341,9 @@
     <text name="NotificationTypes" value="Notification Types" />
     <text name="ReceiveNotifications_DisableInfo" value="You completely disabled receiving notifications. You can enable it and select notification types you want to receive." />
     <text name="Notifications" value="Notifications" />
+    <text name="NotificationsHeaderInfo" value="Notification management and settings" />
     <text name="ThereIsNoNotification" value="There is no notification." />
+    <text name="Read" value="Read" />
     <text name="Unread" value="Unread" />
     <text name="YouCanNotDeleteOwnAccount" value="You can not delete own user account!" />
     <text name="On" value="On" />
