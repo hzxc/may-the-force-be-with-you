@@ -142,7 +142,7 @@
     <text name="DefaultRole_Description" value="新用户将默认拥有此角色." />
     <text name="StaticRole_Tooltip" value="不能删除系统角色." />
     <text name="EmailConfirmationRequiredForLogin" value="必须验证邮箱地址后才能登录." />
-    <text name="{0}UserCannotBeDeleted" value="{不能删除0}用户." />
+    <text name="{0}UserCannotBeDeleted" value="不能删除{0}用户." />
     <text name="TenantNameCanNotBeEmpty" value="租户名不能为空" />
     <text name="ExportToExcel" value="导出到Excel" />
     <text name="ChangeProfilePicture" value="修改头像" />
@@ -198,6 +198,7 @@
     <text name="Close" value="关闭" />
     <text name="TurnOn" value="开" />
     <text name="TurnOff" value="关" />
+    <text name="Required">必填字段</text>
     <text name="Refresh" value="刷新" />
     <text name="ErrorState" value="错误状态" />
     <text name="All" value="全部" />
@@ -327,7 +328,7 @@
     <text name="ManageAccounts">账户管理</text>
     <text name="LinkNewAccount">创建关联账户</text>
     <text name="SuccessfullyUnlinked">关联成功</text>
-    <text name="LinkedUserDeleteWarningMessage">用户的关联 { 0 } 将被删除。</text>
+    <text name="LinkedUserDeleteWarningMessage">用户的关联 {0} 将被删除。</text>
     <text name="SwitchToLinkedAccountTokenErrorMessage" value="模拟令牌无效或过期!" />
     <text name="WelcomeToTheApplicationNotificationMessage" value="欢迎来到我们的应用 !通知系统是用来告诉您事件。您可以选择您想要哪种类型的通知收到通知设置。" />
     <text name="NewUserRegisteredNotificationDefinition" value="新用户注册。" />
